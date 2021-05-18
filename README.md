@@ -9,7 +9,7 @@ See [`PLANERING.md`](https://github.com/linusromland/FileUpload/blob/master/plan
 
 ## What is it?
 
-This will be a file upload page that allows you to upload any file and availble for download (max 7 days after upload). It will be built using NodeJS and use the MongoDB Database.
+This will be a file upload page that allows you to upload any file and available for download. It will be built using NodeJS and use the MongoDB Database.
 
 ## Run it yourself:
 
