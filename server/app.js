@@ -47,6 +47,7 @@ app.use(
 app.use(passport.initialize(undefined));
 app.use(passport.session(undefined));
 
+//init of passport
 initializePassport(
 	passport,
 	(name) => User.find((user) => user.name === name),
